@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sef-academy-task/static/css/main.2fdd467e.css",
+    "main.js": "/sef-academy-task/static/js/main.74255e8b.js",
+    "static/js/453.1f24d6df.chunk.js": "/sef-academy-task/static/js/453.1f24d6df.chunk.js",
+    "static/media/secondary_background.jpg": "/sef-academy-task/static/media/secondary_background.08ed22c75db74a19b698.jpg",
+    "index.html": "/sef-academy-task/index.html",
+    "main.2fdd467e.css.map": "/sef-academy-task/static/css/main.2fdd467e.css.map",
+    "main.74255e8b.js.map": "/sef-academy-task/static/js/main.74255e8b.js.map",
+    "453.1f24d6df.chunk.js.map": "/sef-academy-task/static/js/453.1f24d6df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdd467e.css",
+    "static/js/main.74255e8b.js"
+  ]
+}
